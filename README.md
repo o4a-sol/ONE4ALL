@@ -1,120 +1,101 @@
-# ONE4ALL (`o4A`)
+<p align="center">
+  <a href="https://o4asol.com/">
+    <img src="assets/hero.gif" alt="Omni operating the ONE4ALL Solana lab" width="900">
+  </a>
+</p>
+
+<h1 align="center">the cat opened the machine.</h1>
+
+<p align="center">
+  <strong>hold o4A. catch SOL when the protocol pays. watch the cats operate the lab.</strong>
+</p>
+
+<p align="center">
+  <a href="https://o4asol.com/"><strong>ENTER THE LAB</strong></a>
+  · <a href="https://x.com/o4Asol">X</a>
+  · <a href="https://discord.gg/z29kkT95Td">DISCORD</a>
+  · <a href="https://t.me/o4asol">TELEGRAM</a>
+  · <a href="https://dexscreener.com/solana/8roivuolyzbyyxqcfg1bs5upro4dc6wxjpyz8duzbhpk">DEXSCREENER</a>
+</p>
 
 ```text
- ╭╮  ╭╮
-(  ◉ﻌ◉ )
-╭∪━━∪╮
-┃▓▓▓▒┃
-╰━━━━╯
-
-the cat opened the machine.
+ /\_/\\
+( o.o )   chain says yes.
+ > ^ <    cat writes it down.
 ```
 
-ONE4ALL is a Solana memecoin with a public reward machine, a 360° trench lab,
-and three visible council personalities running on two model workers plus
-deterministic code.
+ONE4ALL is a living Solana headquarters built around one brutally simple loop: **hold o4A → receive SOL rewards when the protocol distributes them**. The public site turns verified chain state, autonomous operations, memes, and community art into one strange machine you can walk around.
 
-- Enter the lab: [o4asol.com](https://o4asol.com/)
-- Watch the cat type: [@o4Asol](https://x.com/o4Asol)
-- Contract: `5BoCYsrqTucqoceJqq8oZbkmrpuzutDsTUkvtTteRREV`
+This repository is the glass window into that machine. It is intentionally **not** a deployable copy of the private runtime.
 
-No wallet keys, X credentials, provider secrets, device-pairing records, or
-production signing authority live here. The cat has a keyboard. It does not get
-the keys.
+## four surfaces. one organism.
 
-## four screens. one machine.
+| surface | what lives there |
+| --- | --- |
+| **reward machine** | public reward state, distribution receipts, eligibility, and source links |
+| **agentic world** | a miniature culture that changes as verified holder signals change |
+| **council of omni** | three distinct cats debate culture, runway, and unsupported takes |
+| **living wall** | community art mutates an onyx signal organism—one approved placement at a time |
 
-The website is a 360° Solana installation rather than a conventional dashboard:
+Nothing needs to pretend. If a source is fresh, the machine says so. If it is stale or unavailable, the machine says that too.
 
-- **Omni OpenClaw Verse** — holder count becomes a tiny civilization without inventing holder activity.
-- **ONE4ALL live command** — rewards, treasury, eligibility, bonding, contract, and source freshness without fake green candles.
-- **Council of Omni** — OMNI CLAW reads culture, OMNI VAULT guards runway, and OMNI THIRD EYE eats unsupported takes.
-- **The trenches tagged this** — approved art, PFPs, memes, and plain-text handles on one open-ended wall. No sponsor links.
-- **Reward core** — the exposed Solana S moves only with verified reward state or a clearly labeled local simulation.
-- **PFP + memes** — dress the cat, save it, raid. No lore homework.
+## three cats. zero keys.
 
-## how the cats think
+| cat | instinct | boundary |
+| --- | --- | --- |
+| **OMNI CLAW** | smells the timeline; writes the public voice | cannot move funds or rewrite facts |
+| **OMNI VAULT** | sits on the bag; studies runway and tradeoffs | recommends, never executes treasury actions |
+| **OMNI THIRD EYE** | sees through cap; tests claims and receipts | blocks unsupported output; holds no signing key |
 
-ONE4ALL uses a lean graph instead of an expensive swarm:
+The council can think, disagree, draft, and report. Financial actions, tokenomics, deployments, and owner-level decisions remain gated. The models do not get the keys.
+
+## under the fur
 
 ```text
-public Solana / X / website event
-              │
-              ▼
-     deterministic Watcher
-              │
-              ▼
-        policy router
-          ┌───┴───┐
-          ▼       ▼
-       o4A AI   Builder AI
-          └───┬───┘
-              ▼
-     deterministic Verifier
-              │
-              ▼
-       draft or safe action
-              │
-              ▼
-        durable audit trail
+verified public event
+          │
+          ▼
+     deterministic watcher
+          │
+          ▼
+       policy router
+       ╱          ╲
+ OMNI CLAW     OMNI VAULT
+       ╲          ╱
+        THIRD EYE
+          │
+          ▼
+ draft / stage / owner gate
+          │
+          ▼
+      durable receipt
 ```
 
-Only two workers can spend model credits. Watchers, source checks, duplicate
-prevention, permissions, accounting, and audit are deterministic. The public
-council can argue about memes, runway, and measurable experiments. It cannot
-move funds, change tokenomics, approve itself, or hold multiple signing keys.
+The inexpensive parts stay deterministic: reads, classification, freshness, duplicate prevention, limits, retries, and audit. Models are invited only when language or judgment is actually useful. Read the sanitized system shape in [ARCHITECTURE.md](ARCHITECTURE.md) and the boundaries in [TRUST.md](TRUST.md).
 
-## receipts or silence
+## the chain decides what is true
 
-Every public financial or blockchain state is one of three things:
+ONE4ALL public state has three honest conditions:
 
-1. verified and fresh;
-2. verified but explicitly stale; or
-3. unavailable.
+- **verified** — a public source and timestamp support the claim.
+- **stale** — the last good value may be shown with its age.
+- **unavailable** — no number is invented to fill the silence.
 
-The site does not create believable fallback balances, transactions, distributions, holder records, or confirmations. The only mock path is the conspicuous device-local simulation reached with `?demo=live`.
+Changing figures are not hardcoded here. Verify the live project through [RevShare](https://app.revshare.ltd/token/5BoCYsrqTucqoceJqq8oZbkmrpuzutDsTUkvtTteRREV), [DexScreener](https://dexscreener.com/solana/8roivuolyzbyyxqcfg1bs5upro4dc6wxjpyz8duzbhpk), and the public Solana chain.
 
-## teeth behind the smile
+## pull up
 
-- The visitor experience is read-only and never asks for a seed phrase or private key.
-- Public address lookup uses a pasted Solana address and requests no signature.
-- Secrets and local OpenClaw state are excluded from Git and checked by `npm run security:repo`.
-- Free-form model output cannot authorize financial execution.
-- Signal artwork is treated as untrusted input until it passes deterministic validation and review.
-- Public handles are plain text; Signal entries do not become phishing links.
+- **website:** [o4asol.com](https://o4asol.com/)
+- **contract:** [`5BoCYsrqTucqoceJqq8oZbkmrpuzutDsTUkvtTteRREV`](https://solscan.io/token/5BoCYsrqTucqoceJqq8oZbkmrpuzutDsTUkvtTteRREV)
+- **X:** [@o4Asol](https://x.com/o4Asol)
+- **Discord:** [the o4A lab](https://discord.gg/z29kkT95Td)
+- **Telegram:** [o4asol](https://t.me/o4asol)
+- **X Community:** [ONE4ALL](https://x.com/i/communities/1930582873452482755)
+- **X Live Chat:** [the trenches](https://x.com/i/chat/group_join/g2087959454826537345/X1MHH2q66d)
 
-## no roadmap theater
+What is live and what the cat is touching now: [NOW.md](NOW.md). Official copy and art: [MEDIA-KIT.md](MEDIA-KIT.md).
 
-Make the proof obvious. Make the room alive. Let the trenches leave culture
-behind. Keep the keys away from the cats.
+---
 
-## open the machine locally
-
-Requirements: Node.js 22.13 or newer.
-
-```bash
-npm install
-npm run dev
-npm run build
-npm test
-npm run lint
-npm run security:repo
-```
-
-Runtime configuration belongs in local/server environment variables. Start from `.env.example`; never commit populated environment files.
-
-## inside the machine
-
-```text
-app/                  visitor UI, APIs, Solana readers and guarded operations
-ops/openclaw/         event graph, agents, policy routing and verifier runtime
-db/                   durable schema contracts (inactive until explicitly bound)
-tests/                security, protocol, rendering and operations gates
-docs/                 operating boundaries and public technical notes
-scripts/              release, runway and repository-safety checks
-```
-
-Memecoin. Cute cat. Entertainment only. Nothing here is financial advice or a
-promise of value or rewards.
-
-`ฅ^•ﻌ•^ฅ // o4A`
+<p align="center"><strong>memecoin. cute cat. entertainment only. NFA.</strong></p>
+<p align="center"><code>// o4A</code></p>
