@@ -1,0 +1,44 @@
+name: verified-data mismatch
+description: A public number does not match its authoritative source.
+title: "[data] "
+labels: ["verified-data"]
+body:
+  - type: markdown
+    attributes:
+      value: "Bring a public source and timestamp. No screenshots of private wallets or accounts."
+  - type: input
+    id: field
+    attributes:
+      label: Displayed field
+      placeholder: SOL paid / completed drops / hold minimum / etc.
+    validations:
+      required: true
+  - type: input
+    id: displayed
+    attributes:
+      label: Value shown by ONE4ALL
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Authoritative public source URL
+    validations:
+      required: true
+  - type: input
+    id: observed
+    attributes:
+      label: Time observed, including timezone
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety check
+      options:
+        - label: This report contains no seed phrase, private key, credentials, or personal data.
+          required: true

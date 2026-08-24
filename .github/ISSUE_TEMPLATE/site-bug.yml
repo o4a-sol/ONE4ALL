@@ -1,0 +1,48 @@
+name: site bug
+description: Something in the public ONE4ALL experience broke.
+title: "[site] "
+labels: ["site-bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "The cat needs a clean reproduction. Do not include secrets, private keys, or personal data."
+  - type: input
+    id: url
+    attributes:
+      label: Page URL
+      placeholder: https://o4asol.com/
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and browser
+      placeholder: iPhone Safari / Windows Chrome / etc.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should have happened?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Open…\n2. Tap…\n3. Observe…"
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Safety check
+      options:
+        - label: I removed wallet secrets, credentials, and personal data.
+          required: true
