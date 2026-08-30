@@ -30,19 +30,20 @@ hold o4A. catch SOL when the protocol pays. watch the cats work.
 
 ## approved assets
 
-- [`assets/omni.png`](assets/omni.png) — canonical Omni character.
-- [`assets/hero.gif`](assets/hero.gif) — animated ONE4ALL lab banner.
-- [`assets/social-preview.png`](assets/social-preview.png) — static social preview.
+- [`assets/omni.png`](assets/omni.png) - canonical Omni character.
+- [`assets/council-stack.webp`](assets/council-stack.webp) - Omni Stack operator portrait.
+- [`assets/council-warden.webp`](assets/council-warden.webp) - Omni Warden watch portrait.
+- [`assets/hero.gif`](assets/hero.gif) - animated ONE4ALL lab banner.
+- [`assets/social-preview.png`](assets/social-preview.png) - static social preview.
 
 The canonical character and project marks remain protected. See [BRAND-USE.md](BRAND-USE.md) before remixing or redistributing assets.
 
 ## voice fragment
 
 ```text
- ฅ^•ﻌ•^ฅ
-the chain moved.
-the cat noticed.
-// o4A
+ /\_/\
+ ( o.o )
+  > | < // o4A
 ```
 
 Do not imply guaranteed returns, invent statistics, impersonate the project, or attach ONE4ALL branding to a different token or wallet.

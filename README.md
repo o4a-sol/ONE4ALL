@@ -21,7 +21,7 @@
 ```text
  /\_/\\
 ( o.o )   chain says yes.
- > ^ <    cat writes it down.
+ > = <    cat writes it down.
 ```
 
 ONE4ALL is a living Solana headquarters built around one brutally simple loop: **hold o4A → receive SOL rewards when the protocol distributes them**. The public site turns verified chain state, autonomous operations, memes, and community art into one strange machine you can walk around.
@@ -44,10 +44,26 @@ Nothing needs to pretend. If a source is fresh, the machine says so. If it is st
 | cat | instinct | boundary |
 | --- | --- | --- |
 | **OMNI CLAW** | smells the timeline; writes the public voice | cannot move funds or rewrite facts |
-| **OMNI VAULT** | sits on the bag; studies runway and tradeoffs | recommends, never executes treasury actions |
-| **OMNI THIRD EYE** | sees through cap; tests claims and receipts | blocks unsupported output; holds no signing key |
+| **OMNI STACK** | runs the terminal; studies runway and measurable moves | recommends, never executes treasury actions |
+| **OMNI WARDEN** | watches holder interests; tests claims and receipts | blocks unsupported output; holds no signing key |
+
+<p align="center">
+  <img src="assets/omni.png" alt="Omni Claw, the canonical ONE4ALL Omni" width="180">
+  <img src="assets/council-stack.webp" alt="Omni Stack with operator headphones and terminal lenses" width="180">
+  <img src="assets/council-warden.webp" alt="Omni Warden with a spectral visor and signal crown" width="180">
+</p>
 
 The council can think, disagree, draft, and report. Financial actions, tokenomics, deployments, and owner-level decisions remain gated. The models do not get the keys.
+
+## latest mutation
+
+The Council no longer shares one face. Claw keeps the original Omni silhouette;
+Stack carries the operator build; Warden wears the spectral watch build. The
+same city pass added inhabited facades, three wordless city marks, a one-tap
+mobile Buy action, and Socials in the mobile dock.
+
+The proof is public, the deployable runtime is not. Read the current release
+receipt in [NOW.md](NOW.md).
 
 ## under the fur
 
@@ -60,9 +76,9 @@ verified public event
           ▼
        policy router
        ╱          ╲
- OMNI CLAW     OMNI VAULT
+ OMNI CLAW     OMNI STACK
        ╲          ╱
-        THIRD EYE
+       OMNI WARDEN
           │
           ▼
  draft / stage / owner gate
