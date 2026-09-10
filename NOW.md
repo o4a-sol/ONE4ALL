@@ -1,38 +1,29 @@
-# now // the cat is touching this
+# now // September 10, 2026
 
-This is a current-state note, not a roadmap and not a promise of future returns.
+ONE4ALL is a Solana revshare memecoin. The mission is to keep building useful community tools and make reward activity visible through public receipts.
 
-## live
+## shipped
 
-- The public ONE4ALL lab and lightweight view are online at [o4asol.com](https://o4asol.com/).
-- Reward and market proof link to public RevShare, Solana, and DexScreener sources.
-- The lab contains the reward machine, Agentic World, Council of Omni, Living Wall, PFP creator, and meme surfaces.
-- Three public project wallets are observed as separate vaults; observation does not grant signing authority.
-- Omni has a bounded public voice with deterministic cadence, identity, duplicate, and daily-limit checks.
+- Mobile homepage puts the original Omni above the reward summary, with compact navigation and a catalog of real public PFP looks.
+- The city has a darker, slimmer skyline and lower shops. Gallery displays, walking routes, and the Studio entrance remain usable on phones and desktops.
+- Portrait Club preserves Omni's original seated laptop pose across 24 starting looks. It offers 27 sticker choices with center/corner placement and 2048 × 2048 PNG export.
+- The latest stickers add BONK, POPCAT, MEW, PONKE, WEN, and MOODENG plus Solana meme and Cat takeover packs. Their inclusion does not imply endorsement.
+- Existing original meme and PFP assets use immutable delivery references; the new small stickers also ship directly with the site.
 
-## shipped // 2026-08-30
+## reward receipt
 
-- Omni Claw, Omni Stack, and Omni Warden now have separate project-owned portraits that match their public jobs.
-- City facades gained inhabited windows and stronger depth without turning the world into a neon dashboard.
-- Three new wordless city marks entered the rotation from reviewed ONE4ALL art.
-- Mobile gained a one-tap Buy action and direct Socials access while SOL Rewards remains available through More.
-- The PFP collection was recut with sharper field gear, accessories, and cleaner mobile composition.
-- OpenClaw now favors reviewed wordless reactions when a post calls for media, with deterministic selection and repeat suppression.
+A September 10 live snapshot reported **18.56195774 SOL pre-split reward flow** and **12.99337042 SOL paid to eligible holders** (about 13 SOL). Gross flow is derived from the current 70% holder share. It is not an additional payment.
 
-The release passed 215 automated checks, the production build, repository safety,
-desktop and mobile visual QA, and live asset verification. Council variant assets
-ship as 512 x 512 WebP files under 23 KB each.
+Amounts change. Verify current figures, freshness labels, and distribution receipts on the [website](https://o4asol.com/) and [RevShare](https://app.revshare.ltd/token/5BoCYsrqTucqoceJqq8oZbkmrpuzutDsTUkvtTteRREV). Rewards vary and are not guaranteed.
 
-## being sharpened
+## verification
 
-- Faster loading and smoother movement on ordinary laptops and phones.
-- Fresher public proof with explicit timestamps and unavailable states.
-- A Living Wall that feels like a growing trench organism, not a sponsor grid.
-- More expressive council conversations grounded in real public signals, with each cat retaining a clear visual identity.
-- Better community art, memes, and world mutations without fabricated activity.
+The mobile/city release passed a production build, 63 focused tests, independent Experience & World review, and compiled/live checks at 320, 390, 760, and 1440px. The sticker batch passed center/corner placement checks for all eight new choices and a 2048px renderer export. These checks are scoped to the release; desktop phone emulation is not physical-device testing or a whole-system audit.
 
-## not happening here
+The bounded OpenClaw X publisher remains text-only. Visitors can browse and download website art for their own posts. Public reads, accounting, freshness, and permissions remain deterministic. Visitors are not asked to connect a wallet or sign a transaction.
 
-This repository does not publish deployable application source, private agent instructions, credentials, production endpoints, financial execution logic, databases, or signing material.
+## repositories
 
-The cat shows the shape of the machine. It does not leave the machine unlocked.
+- [ONE4ALL](https://github.com/o4a-sol/ONE4ALL): public mission, release notes, trust model, and media.
+- [Artwork](https://github.com/o4a-sol/one4all-meme-assets): public asset files, checksums, and source records.
+- The deployable HQ source remains private. Public documentation does not contain account data, credentials, signing material, or private agent instructions.

@@ -10,11 +10,17 @@
 
 ## short description
 
-ONE4ALL is a living Solana lab where holders catch protocol-paid SOL rewards, Omni agents operate in public, memes travel fast, and the community leaves art inside the machine.
+ONE4ALL is a Solana revshare memecoin with public SOL reward receipts, a city of cats, and free PFP and meme tools. Keep building, show the receipts, and make Omni your own.
 
 ## tiny description
 
 hold o4A. catch SOL when the protocol pays. watch the cats work.
+
+## reward wording
+
+Always distinguish pre-split reward flow from SOL paid to eligible holders.
+Use a dated, verified snapshot or link to the live dashboard; never call gross
+flow an additional holder payout. Rewards vary and are not guaranteed.
 
 ## official links
 

@@ -24,7 +24,7 @@
  > = <    cat writes it down.
 ```
 
-ONE4ALL is a living Solana headquarters built around one brutally simple loop: **hold o4A → receive SOL rewards when the protocol distributes them**. The public site turns verified chain state, autonomous operations, memes, and community art into one strange machine you can walk around.
+ONE4ALL is a **Solana revshare memecoin** with public SOL reward receipts, a city of cats, and free PFP and meme tools. Our mission: keep building, make reward activity transparent, and give the community a character it can make its own. Eligible holders share in protocol distributions; rewards vary and are not guaranteed.
 
 This repository is the glass window into that machine. It is intentionally **not** a deployable copy of the private runtime.
 
@@ -57,10 +57,22 @@ The council can think, disagree, draft, and report. Financial actions, tokenomic
 
 ## latest mutation
 
-The Council no longer shares one face. Claw keeps the original Omni silhouette;
-Stack carries the operator build; Warden wears the spectral watch build. The
-same city pass added inhabited facades, three wordless city marks, a one-tap
-mobile Buy action, and Socials in the mobile dock.
+The September 10 update brings the original seated Omni into the mobile
+homepage, shows real PFP examples, and gives the city a darker skyline with
+cleaner shops. Portrait Club has 24 starting looks and 27 laptop sticker
+choices, including BONK, POPCAT, MEW, PONKE, WEN, and MOODENG. Community
+stickers are optional decorations, not endorsements or partnerships.
+
+<p align="center">
+  <img src="assets/pfp-showcase/asphalt-og.webp" alt="Asphalt OG Omni PFP" width="220">
+  <img src="assets/pfp-showcase/strawberry-milk.webp" alt="Strawberry Milk Omni PFP" width="220">
+  <img src="assets/pfp-showcase/redline.webp" alt="Redline Omni PFP" width="220">
+</p>
+
+Make one in the [PFP studio](https://o4asol.com/?view=create).
+The dashboard distinguishes pre-split reward flow from SOL paid to eligible
+holders. Those figures describe different parts of the same flow and must not
+be added together or advertised as the same payout total.
 
 The proof is public, the deployable runtime is not. Read the current release
 receipt in [NOW.md](NOW.md).
