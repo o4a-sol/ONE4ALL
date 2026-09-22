@@ -1,4 +1,29 @@
-# now // September 10, 2026
+# now // September 22, 2026
+
+## current public surfaces
+
+The live website exposes an official-mint buy guide, SOL reward records,
+a read-only treasury with four public wallets, the Wall of Legends,
+and links to the PFP studio and meme tools.
+
+- [Official mint and buy guide](https://o4asol.com/?view=buy)
+- [Public treasury](https://o4asol.com/?view=treasury)
+- [SOL reward records](https://o4asol.com/?view=rewards)
+- [Wall of Legends](https://o4asol.com/build)
+- [PFP studio](https://o4asol.com/?view=create)
+
+Treasury and reward records do not require a wallet connection. The separate
+Wall of Legends flow may require explicit wallet authorization for bids or
+payments; that does not give the council custody or signing authority.
+Token valuations are indicative, not cash balances or guaranteed sale proceeds.
+Eligible-holder rewards are variable and not guaranteed.
+
+This is a point-in-time public-surface observation, not a new deployment,
+security audit, transaction test, or claim that every feature was retested.
+Use live sources for changing balances and reward figures; do not treat the
+historical snapshot below as current.
+
+## September 10 release archive
 
 ONE4ALL is a Solana revshare memecoin. The mission is to keep building useful community tools and make reward activity visible through public receipts.
 

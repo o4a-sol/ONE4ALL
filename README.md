@@ -55,7 +55,22 @@ Nothing needs to pretend. If a source is fresh, the machine says so. If it is st
 
 The council can think, disagree, draft, and report. Financial actions, tokenomics, deployments, and owner-level decisions remain gated. The models do not get the keys.
 
-## latest mutation
+## current public surfaces
+
+Start with the [buy guide](https://o4asol.com/?view=buy),
+[public treasury](https://o4asol.com/?view=treasury),
+[SOL rewards](https://o4asol.com/?view=rewards), or
+[Wall of Legends](https://o4asol.com/build).
+The treasury shows four public wallets and separates SOL from o4A holdings;
+an indicative token valuation is not a cash balance or a guarantee of sale proceeds.
+Treasury and reward views are read-only. Wallet signing for an explicit
+Wall of Legends action is a separate flow, not a requirement for viewing public records.
+
+This public repository contains documentation and media, not a deployable
+application or dependency manifest. See [NOW.md](NOW.md) for the current
+public-surface check and historical release notes.
+
+## September 10 release archive
 
 The September 10 update brings the original seated Omni into the mobile
 homepage, shows real PFP examples, and gives the city a darker skyline with
